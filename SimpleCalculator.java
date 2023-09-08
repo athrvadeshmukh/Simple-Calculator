@@ -182,12 +182,12 @@ public class SimpleCalculator extends JFrame implements ActionListener, KeyListe
 
     @Override
     public void keyTyped(KeyEvent e) {
-        // Not used in this example
+        // Not used in code
     }
 
     @Override
     public void keyReleased(KeyEvent e) {
-        // Not used in this example
+        // Not used in code
     }
 
     public static void main(String[] args) {
